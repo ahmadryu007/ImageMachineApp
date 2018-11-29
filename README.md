@@ -1,7 +1,7 @@
 # ImageMachineApp
 An iOS app that i create for submission apply job for prospace
 
-there is two grou file
+there is two group file with no refactoring code
 - Code Reader
 - Machine Data
 
